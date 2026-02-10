@@ -1,0 +1,12 @@
+# frontend
+node_modules/
+dist/
+build/
+
+# backend
+backend/target/
+backend/.idea/
+
+# common
+.env
+.DS_Store
